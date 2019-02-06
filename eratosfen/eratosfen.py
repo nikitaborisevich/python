@@ -10,3 +10,9 @@ def check():
 
 
 check()
+
+
+
+#    for i in range(len(s1)-1, -1, -1):
+#        if s1[i] == 0:
+#            del s1[i]
