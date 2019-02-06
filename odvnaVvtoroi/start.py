@@ -8,3 +8,13 @@ def banana():
         print("sorry try again")
 
 banana()
+
+
+
+#x = input("enter str 1 ")
+#y = input("enter str 2 ")
+#
+#if y in x:
+#    print('Class')
+#else:
+#    print('Try again')
